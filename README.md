@@ -1,12 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I'm%20kokori&fontSize=50)
 ## 💻 Skill & Tool
----
 ![Static Badge](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) 
 
 ![Static Badge](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![Static Badge](https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white) 
 ## 🎓 Edu & Personal Exprerience
----
 - 2023 멋쟁이사자처럼 테킷 앱스쿨 3기 
 - 2019 <행정직을 위한 정시퇴근근각 - 파이썬 업무자동화>인프런 강의
 - 2010.02 ~ 2015.02 국민대학교 컴퓨터공학부 졸업
