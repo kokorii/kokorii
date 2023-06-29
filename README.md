@@ -9,6 +9,16 @@
 
 ![Static Badge](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![Static Badge](https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white) 
+## Career 
+`22.08 ~ 23.03 (6개월)` (주)업라이즈투자자문 / 정보보안 
+
+`20.02 ~ 22.08 (2년 6개월)` 한국특허정보원 / 시스템 취약점 점검 및 조치
+
+`18.03 ~ 19.11 (1년 8개월)` (주)플라이하이 / 품질보증, 테스트 자동화
+
+`15.08 ~ 18.01 (2년 5개월)` 근로복지공단 6급 주임 / 행정
+
+`12.02 ~ 12.08 (6개월)` (주)안랩 16기 인턴 / SW테스터
 ## 🎓 Edu & Personal Exprerience
 - 2023.05. ~ 2023.10. 멋쟁이사자처럼 테킷 앱스쿨 3기 
 - 2021.05 TTA아카데미 SW 보안성 테스트 교육 이수
