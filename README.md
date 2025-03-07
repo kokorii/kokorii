@@ -32,7 +32,7 @@
 - 2010.08 ~ 2010. 12 특허청 블로그 기자단 2기
 
 ## 👩🏻‍💻 About Me
-[![Static Badge](https://img.shields.io/badge/tistory_blog-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://day-by-day.tistory.com/) [![Static Badge](https://img.shields.io/badge/naver_blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/12heejin)
+[![Static Badge](https://img.shields.io/badge/tistory_blog-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://day-by-day.tistory.com/) 
 
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokorii&show_icons=true&theme=onedark)
