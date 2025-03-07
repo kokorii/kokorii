@@ -10,7 +10,9 @@
 ![Static Badge](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![Static Badge](https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white) 
 ## Career 
-`22.08 ~ 23.03 (6개월)` (주)업라이즈투자자문 / 정보보안
+`23.12 ~ 25.01 (14개월)` (유)일루미나리안 / QA Engineer
+
+`22.08 ~ 23.03 (6개월)` (주)업라이즈투자자문 / SW Engineer 
 
 `20.02 ~ 22.08 (2년 6개월)` 한국특허정보원 / 시스템 취약점 점검 및 조치 자동화
 
